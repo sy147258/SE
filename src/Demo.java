@@ -8,7 +8,7 @@ import se.exp3.a4.*;
 /**
  * 演示: 实例化四组类模型，验证代码可编译、可运行。
  * 编译: 在项目根目录执行 javac -encoding UTF-8 -d out (src 下全部 .java)
- * 运行: java -cp out se.exp3.Demo
+ * 运行: java -cp out .Demo
  */
 public class Demo {
     public static void main(String[] args) {
